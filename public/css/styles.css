@@ -55,7 +55,7 @@ body {
 
 
 .img-bg-home {
-    background-image: url("../img/Caminhoes.png");
+    background-image: url("../img/caminhoesferrovelho.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 500px;
@@ -92,6 +92,10 @@ body {
     transition: all 0.6s;
     transform: scale(1.15, 1.20);
 
+}
+
+.form-control {
+    border: 1px solid var(--text-info-color-orange) !important;
 }
 
 .paciente-img img {
@@ -152,6 +156,24 @@ body {
     text-transform: uppercase;
 
 }
+.text-info-black-3 h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 34px;
+    font-weight: bold;
+    color: var(--text-info-color);
+    text-transform: uppercase;
+
+}
+.text-info-black-3 h4 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 22px;
+    font-weight: bold;
+    color: var(--text-info-color-orange);
+    text-transform: uppercase;
+
+}
 .text-info-black-3 p {
     color: var(--text-info-color);
 }
@@ -186,6 +208,15 @@ body {
 
 .text-info h2{
     font-style: bold;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    color: var(--text-info-color);
+    text-transform: uppercase;
+    font-size: 38px;
+}
+
+.text-info h3{
+    font-weight: bold !important;
     margin-top: 50px;
     margin-bottom: 10px;
     color: var(--text-info-color);
@@ -789,7 +820,7 @@ ul.social-footer2 li a {
 
 
 /* Media Query's */
-@media (min-width: 360px) and (max-width: 360px) {
+@media (min-width: 360px) and (max-width: 389px) {
     .luiz-img img {
         width: 250px !important;
         height: 250px !important;
@@ -798,6 +829,46 @@ ul.social-footer2 li a {
     .maps-iframe iframe {
         width: 100%;
         height: 500px;
+    }
+    .caminhoes-img img {
+        width: 330px;
+        height: 300px;
+        margin: 0px;
+        margin-bottom: 20px;
+    }
+    .text-info-black-contato p {
+        margin-right: 0px; 
+        margin-left: 0px; 
+    }
+    .triangle-orange {
+        text-align: center;
+        width: 0;
+        height: 0;
+        border-top: var(--triangle-color-orange);
+        border-left: 195.5px outset transparent !important;
+        border-right: 195.5px outset transparent !important;
+        position: relative;
+       
+    }
+    .triangle-black {
+        text-align: center ;
+        width: 0 ;
+        height: 0 ;
+        border-top: var(--tringle-color-black) ;
+        border-left: 195.5px outset transparent ;
+        border-right: 195.5px outset transparent ;
+        position: relative;
+        margin-top: -0.5px;
+        
+    }
+    .videos-iframe iframe{
+        margin: 10px;
+        width: 95%;
+        height: 315px;
+    }
+    .text-info h3{
+        font-size: 26px;
+        
     }
 }
 
@@ -817,8 +888,8 @@ ul.social-footer2 li a {
         width: 0;
         height: 0;
         border-top: var(--triangle-color-orange);
-        border-left: 195.5px outset transparent;
-        border-right: 195.5px outset transparent;
+        border-left: 195.5px outset transparent !important;
+        border-right: 195.5px outset transparent !important;
         position: relative;
        
     }
@@ -850,7 +921,7 @@ ul.social-footer2 li a {
 
 @media (max-width: 1366px){
     .img-bg-home {
-        background-image: url("../img/Caminhoes.png");
+        background-image: url("../img/caminhoesferrovelho.png");
         background-repeat: no-repeat;
         background-size: cover;
         height: 500px;
@@ -861,7 +932,7 @@ ul.social-footer2 li a {
 @media (min-width: 1367px) and (max-width: 1920px) {
     
     .img-bg-home {
-        background-image: url("../img/Caminhoes.png");
+        background-image: url("../img/caminhoesferrovelho.png");
         background-repeat: no-repeat;
         background-size: cover;
         height: 740px;

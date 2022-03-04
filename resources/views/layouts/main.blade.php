@@ -4,6 +4,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" contet="Ferro Velho São José em Guaíra - SP">
+  <meta name="keywords" content="ferro velho, ferro velho mais próximo, ferro velho guaira, ferro velho em sao paulo, ferro velho sao paulo, ferro velho sao jose, sao jose, jose, sao, ferro velho kg, velho, peças, pecas, ferro peças, guaira peças, guaira ferro, guaira velho, guaira sao jose, guaira, guaira sao, guaira jose, ferro velho em guaira, sucata, sucata ferrosa, sucata não ferrosa, sucata reciclavel, reciclavel, ferro velho do baiano, baiano guaira, ferro velho baiano">
   <title>@yield('title')</title>
   <link rel="stylesheet" href="css/styles.css">
   <script src="js/scripts.js"></script>
@@ -32,9 +34,7 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ms-auto">
-          <li class="nav-item">
-            <a class="link-nav" href="#">Página Inicial</a>
-          </li>
+          
           <li class="nav-item">
             <a class="link-nav nav-item" href="#AEmpresa">A Empresa</a>
           </li>
@@ -65,16 +65,14 @@
           <div class="col-xs-12 col-sm-6 col-md-3">
             <div class="widget subscribe no-box">
               <h5 class="widget-title">Ferro Velho <br>São José<span></span></h5>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod temporibus eos, id amet nesciunt consequatur. Impedit atque iusto hic repellat odio delectus eum distinctio? Veritatis hic nesciunt explicabo voluptatem iure!</p>
+              <p>O Ferro Velho São José, há mais de 15 anos no mercado de material reciclável, conta com diversos produtos para atender suas demandas,
+                encontrando soluções para realizar bons negócios. Somos especialistas em materiais recicláveis como: Alumínio, inox, madeira, vigas, cantoneiras, ferro fundido, etc...</p>
             </div>
           </div>
           <div class="col-xs-12 col-sm-6 col-md-3">
             <div class="widget no-box">
               <h5 class="widget-title">Páginas<span></span></h5>
               <ul class="thumbnail-widget">
-                <li>
-                  <div class="thumb-content"><a href="#PaginaInicial">&nbsp;Página Inicial</a></div>
-                </li>
                 <li>
                   <div class="thumb-content"><a href="#Servicos">&nbsp;Serviços</a></div>
                 </li>
@@ -95,7 +93,7 @@
             <div class="widget no-box">
               <h5 class="widget-title">Redes Sociais<span></span></h5>
               <!-- <a href="https://www.facebook.com/profile.php?id=100073237146517"> <i class="fa fa-facebook"> </i> </a> -->
-              <a href="https://www.instagram.com/ferro.velhosaojose/"> <i class="fa fa-instagram"> </i> </a>
+              <a href="https://www.instagram.com/ferro.velhosaojose/" style="color:transparent !important"> <i class="fa fa-instagram"> </i> </a>
               <a href="https://api.whatsapp.com/send?phone=5517981733939&text=Ol%C3%A1%20,%20vim%20pelo%20Site%20!"> <i class="fa fa-whatsapp"> </i> </a>
             </div>
           </div>

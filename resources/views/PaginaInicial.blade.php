@@ -4,7 +4,7 @@
 
 <div class="container-flex img-bg-home">
     <div class="row">
-        <div class="col-md-12 text-center banner-h3 logo-banner">
+        <div class="col-md-12 text-center banner-h3 logo-banner" alt="Ferro velho sao jose">
         </div>
     </div>
 </div>
@@ -14,18 +14,20 @@
             <h2>A empresa</h2>
         </div>
         <div class="col-md-6 text-center" data-aos="fade-right" data-aos-duration="1500">
-            <h2>Sobre a Empresa</h2>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente fuga earum vero consequatur officiis accusantium dolor quod a ipsam culpa. Ipsa tempore ullam odit a mollitia? Dolorem culpa quos praesentium!</p>
+            <h3>Sobre a Empresa</h3>
+            <p>O Ferro Velho São José, há mais de 15 anos no mercado de material reciclável, conta com diversos produtos para atender suas demandas,
+                encontrando soluções para realizar bons negócios. Somos especialistas em materiais recicláveis como: Alumínio, inox, madeira, vigas, cantoneiras, ferro fundido, etc.</p>
         </div>
         <div class="col-md-6 text-center caminhoes-img img-animation" data-aos="fade-left" data-aos-duration="1500">
-            <img src="img/trator.jpg" alt="">
+            <img src="img/tratorsaojose.jpg" alt="ferro velho sao jose guaira tratores">
         </div>
         <div class="col-md-6 text-center caminhoes-img img-animation" data-aos="fade-right" data-aos-duration="1500">
-            <img src="img/caminhoes2.jpg" alt="">
+            <img src="img/caminhoessaojoseguaira.jpg" alt="caminhoes ferro velho sao jose em guaira">
         </div>
         <div class="col-md-6 text-center" data-aos="fade-left" data-aos-duration="1500">
-            <h2>Quem somos?</h2>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente fuga earum vero consequatur officiis accusantium dolor quod a ipsam culpa. Ipsa tempore ullam odit a mollitia? Dolorem culpa quos praesentium!</p>
+            <h3>Quem somos?</h3>
+            <p>Nós do Ferro Velho São José, temos a experiência de mais de 15 anos no mercado, prezamos muito pela qualidade do nosso serviço. São mais de 10 caminhões prontos para entregar o mais rápido possível, todo o material solicitado.
+                Respeitamos não somente nossos clientes e amigos, mas também o mundo no qual vivemos, todo ano são mais de 8 toneladas de material reciclável que ajudamos a encontrar o caminho correto.</p>
         </div>
     </div>
 </div>
@@ -40,18 +42,18 @@
                 </p>
             </div>
             <div class="col-md-4 text-center text-info service img-animation" data-aos="fade-right" data-aos-duration="1500">
-                <img class="circle-border img-circle" src="img/icons/naoferrosa.png" alt="">
-                <h3>Sucata não-ferrosa</h3>
+                <img class="circle-border img-circle" src="img/icons/naoferrosa.png" alt="sucata nao ferrosa">
+                <h4>Sucata não-ferrosa</h4>
                 <p>Alumínio, bateria, cobre, inox, metal, motor de geladeira</p>
             </div>
             <div class="col-md-4 text-center text-info service img-animation " data-aos="fade" data-aos-duration="1500">
-                <img class="circle-border img-circle" src="img/icons/ferrosa.png" alt="">
-                <h3>Sucata ferrosa</h3>
+                <img class="circle-border img-circle" src="img/icons/ferrosa.png" alt="sucata ferrosa">
+                <h4>Sucata ferrosa</h4>
                 <p>Cavaco, chaparia, estamparia, ferro fundido, miúda, pesada para corte</p>
             </div>
             <div class="col-md-4 text-center text-info service img-animation" data-aos="fade-left" data-aos-duration="1500">
-                <img class="circle-border img-circle" src="img/icons/geral.png" alt="">
-                <h3>Comércio</h3>
+                <img class="circle-border img-circle" src="img/icons/geral.png" alt="sucata em geral">
+                <h4>Comércio</h4>
                 <p>Produtos siderúrgicos, metalon, tubos, vigas, barras e cantoneiras</p>
             </div>
         </div>
@@ -83,21 +85,19 @@
                 </p>
             </div>
             <div class="col-md-4 service-2 img-animation" data-aos="fade-right" data-aos-duration="1200">
-                <img src="img/icons/alvoeditado.png" alt="">
-                <h2>Missão</h2>
+                <img src="img/icons/alvoferrovelho.png" alt="ferro velho sao jose missao">
+                <h3>Missão</h3>
                 <p>A transformação dos materiais recicláveis com sustentabilidade e inovação. Sempre respeitando nos amigos e clientes.</p>
-
             </div>
             <div class="col-md-4 service-4 img-animation" data-aos="fade-up" data-aos-duration="1200">
-                <img src="img/icons/binoculo.png" alt="">
-                <h2>Visão</h2>
+                <img src="img/icons/binoculoferrovelho.png" alt="visao ferro velho sao jose">
+                <h3>Visão</h3>
                 <p>Ser uma empresa referência no mundo das reciclagem através de soluções ecologicamente corretas, gerando satisfação em nossos clientes e fornecedores.</p>
             </div>
             <div class="col-md-4 service-3 img-animation" data-aos="fade-left" data-aos-duration="1200">
-                <img src="img/icons/semente.png" alt="">
-                <h2>Valores</h2>
+                <img src="img/icons/sementesaojose.png" alt="valores sao jose ferro velho">
+                <h3>Valores</h3>
                 <p>Sustentabilidade;<br>Ética;<br>Profissionalismo;<br>Responsabilidades sociais e ecológicas;</p>
-
             </div>
         </div>
     </div>
